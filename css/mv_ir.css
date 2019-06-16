@@ -146,6 +146,7 @@ th {
   font-weight: normal;
 }
 #comment_box {
+  margin-top: 10px;
   background-color: white;
   padding: 30px;
   opacity: 0.9;
