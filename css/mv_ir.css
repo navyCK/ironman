@@ -145,6 +145,13 @@ th {
   font-size: large;
   font-weight: normal;
 }
+#comment_box {
+  background-color: white;
+  padding: 30px;
+  opacity: 0.9;
+  font-size: large;
+  font-weight: normal;
+}
 h2 {
   color: white;
 }
